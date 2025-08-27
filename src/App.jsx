@@ -2,7 +2,7 @@ import { Navbar } from "./components/Navbar";
 import { Home } from "./components/Home";
 import { About } from "./components/about";
 import { Projects } from "./components/Projects";
-import { Contact } from ".components/Contact.jsx";
+import { Contact } from "./components/Contact.jsx";
 import{Skills} from"./components/Skills";
 import { Footer } from "./components/Footer";
 
